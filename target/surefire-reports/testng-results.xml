@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22162" started-at="2022-07-28T13:09:44 IST" finished-at="2022-07-28T13:10:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22162" started-at="2022-07-28T13:09:44 IST" finished-at="2022-07-28T13:10:06 IST">
+      <class name="com.sedt.userloginTest">
+        <test-method status="PASS" signature="tetslogin1()[pri:0, instance:com.sedt.userloginTest@37d31475]" name="tetslogin1" duration-ms="19" started-at="2022-07-28T13:10:06 IST" finished-at="2022-07-28T13:10:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetslogin1 -->
+        <test-method status="PASS" signature="tetslogin2()[pri:0, instance:com.sedt.userloginTest@37d31475]" name="tetslogin2" duration-ms="1" started-at="2022-07-28T13:10:06 IST" finished-at="2022-07-28T13:10:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetslogin2 -->
+      </class> <!-- com.sedt.userloginTest -->
+      <class name="com.sedt.websitelogin">
+        <test-method status="PASS" signature="Test()[pri:0, instance:com.sedt.websitelogin@6f195bc3]" name="Test" duration-ms="22060" started-at="2022-07-28T13:09:44 IST" finished-at="2022-07-28T13:10:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- com.sedt.websitelogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
